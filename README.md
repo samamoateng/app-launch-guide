@@ -49,7 +49,7 @@ Throughout this guide, I'll reference a number of great resources, some free and
 - Social
 	- [Buffer App](http://bufferapp.com) — Free — Easily schedule posts to your Twitter so you don’t need to baby sit it.
 	- [Mad Mimi](https://madmimi.com/short_ref/nyw) — Free/Cheap — Easily manage your email list
-	- [Vine](http://vine.co) — Free — Great way to show your development progress visually to your audience
+	- [our develally to your audience
 	- [TweetDeck](https://tweetdeck.twitter.com/) — Free — Easily stay on top of multiple lists of influencers so you can jump into the conversation when appropriate
 	- [Crowdfire](https://www.crowdfireapp.com) - Free/Cheap - Easily auto-follow the followers of relevant twitter users to gain visibility.
 - Tracking
